@@ -214,7 +214,9 @@ Epoka 15/15 (8.3s) | Train Loss: 0.9330 | Test Loss: 1.1750 | Test Acc: 0.5841 |
 
 #### Wnioski
 
-Loss pozostał dość duży pomimo zastosowania 15 epok. Świadczy to o tym, że liczba epok jest za mała, albo model jest zbyt mały.
+Loss pozostał dość duży pomimo zastosowania 15 epok. Świadczy to o tym, że liczba epok jest za mała, albo model jest zbyt mały. Decyzja o takim rozmiarze modelu została podjęta z uwagi na ograniczony czas oraz ograniczenia sprzętowe.
+
+Rozwizaniem problemu może być użycie google collab w celu wytrenowania większego modelu lub przeprowadzenie treningu na innym sprzęcie.
 
 ---
 
