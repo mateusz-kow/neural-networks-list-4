@@ -176,7 +176,7 @@ Zastosowano funkcję `nn.BCEWithLogitsLoss(reduction="mean")`, której gradient 
 
 4./ Ręczne losowanie kolejności tensorów w zbiorze treningowym
 
-Wykorzystano lekko zmodyfikowany kod z listy 3
+Wykorzystano lekko zmodyfikowany kod z listy 3, z tym samym seedem generatora liczb losowych.
 
 ### Baseline CIFAR-10
 
